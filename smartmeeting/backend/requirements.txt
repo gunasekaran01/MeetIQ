@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+python-multipart
+supabase
+moviepy
+openai-whisper
+keybert
+sentence-transformers
+nltk
